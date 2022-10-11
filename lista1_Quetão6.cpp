@@ -19,14 +19,14 @@ int main() {
 
 
     soma = valor1 + valor2;
-    printf("o valor da soma é %.2f\n" , soma);
+    printf("o valor da soma Ã© %.2f\n" , soma);
     
     printf("digite o valor3\n");
     scanf("%f" , &valor3);
     
     subtracao = soma - valor3;
     
-    printf("o resultado da subtracao é %.2f", subtracao); 
+    printf("o resultado da subtracao Ã©: %.2f", subtracao); 
 	
 	system("pause");
 	return 0;
